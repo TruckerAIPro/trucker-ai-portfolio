@@ -1,10 +1,11 @@
-# Trucker AI Pro – AI for Truckers
+
+# Trucker AI Pro – AI for UK Truckers
 
 > "Predicting delays & profit from my iPhone in the cab."
 
 ## AI Tools
 - [Delay Predictor](Trucker_AI_Delay_Predictor.ipynb) → 35-min delay forecast
-- [Profit Predictor](Profit_Predictor.ipynb) → **$1012 profit** predicted
+- [Profit Predictor](Profit_Predictor.ipynb) → **£1,465 profit** predicted
 
 ## Skills
 - Python + AI on iPhone
